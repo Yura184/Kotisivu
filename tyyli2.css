@@ -1,0 +1,23 @@
+body {
+    background-color: brown;
+    background:url(img/img.png);
+}
+
+ul {
+    color: rgb(173, 5, 5);
+    font-family: 20px;
+    font-size: 20px;
+}
+
+a, body {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(206, 20, 6);
+    font-size: 30px;
+}
+
+p {
+ color: antiquewhite;
+}

@@ -1,0 +1,29 @@
+body {
+    background-color: brown;
+    background:url(img/imag.png);
+}
+
+h1 {
+    color: rgb(5, 173, 27);
+    font-family: 40px;
+    font-size: 40px;
+}
+
+a, body {
+    text-align: center;
+}
+h4, dl {
+    color: rgb(0, 195, 255);
+    font-size: 20px;
+}
+h2 {
+    color: bisque;
+    font-size: 30px;
+}
+
+p {
+ color: antiquewhite;
+}
+.nav {
+    color: black;
+}
